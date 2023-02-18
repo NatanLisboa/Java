@@ -1,0 +1,10 @@
+<carrinho>
+  <produto codigo="1">
+    <descricao>sabonete</descricao>
+    <valor>8.30</valor>
+  </produto>
+  <produto codigo="2">
+    <descricao>coxão duro (kg)</descricao>
+    <valor>40.00</valor>
+  </produto>
+</carrinho>
